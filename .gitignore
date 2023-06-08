@@ -1,0 +1,31 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+ 
+# Visual Studio files
+*.user
+*.suo
+*.sln.docstates
+*.vcxproj.filters
+*.csproj.user
+*.userprefs
+obj/Debug/
+Bin/Debug/
+*.dbmdl
+*.jfm
+ 
+# Cache and logs
+[Tt]humbs.db
+*.log
+[Dd]esktop.ini
+ 
+# Resharper
+/_ReSharper*/
+
+/.vs/
+/.vscode/
+/Properties/launchSettings.json
